@@ -1,1 +1,1 @@
-# Vertex-Virtusa
+<h1 align="left">Vertex-Virtusa using Greedy and Bruteforce approach In Java<a href="https://www.java.com" target="blank" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p></h1>
